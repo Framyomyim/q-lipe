@@ -4,7 +4,7 @@
      * Open Source PHP Framework
      * QLipe
      * @copyright 2020 
-     * @license MIT V2
+     * @license GPL 3.0
      * @author Kittichai Mala-in
      * @link https://www.facebook.com/frammhe
      */
