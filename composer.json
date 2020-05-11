@@ -13,5 +13,11 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=6"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Framyomyim/q-lipe"
+        }
+    ]
 }
