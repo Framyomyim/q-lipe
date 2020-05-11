@@ -1,5 +1,5 @@
 {
-    "name": "q-lipe/q-lipe-framework",
+    "name": "q-lipe/q-lipe",
     "description": "a PHP Framework - Tiny & Fast - Dynamic System", 
     "type": "framework",
     "license": "GPL-3.0",
@@ -9,7 +9,7 @@
             "email": "kittichai.malain@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^6"
     }
