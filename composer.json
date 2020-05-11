@@ -22,7 +22,7 @@
     ],
     "extra": {
         "installer-paths": {
-            "admin": ["Q-Lipe"]
+            "../{$name}/": ["q-lipe/q-lipe-framework"]
         }
     }
 }
